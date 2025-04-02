@@ -1,0 +1,39 @@
+2025-04-01 09:01:23.391 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-04-01 09:01:23.547 +00:00 [WRN] No XML encryptor configured. Key {27805036-8aeb-4cea-a836-bdc15a1d1eb7} may be persisted to storage in unencrypted form.
+2025-04-01 09:01:23.577 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+2025-04-01 09:05:04.709 +00:00 [WRN] Failed to determine the https port for redirect.
+2025-04-01 09:05:04.908 +00:00 [INF] [Register] Kayıt işlemi başlatıldı. Email: videoDeneme@gmail.com
+2025-04-01 09:05:06.330 +00:00 [INF] [Register] Kullanıcı başarıyla oluşturuldu.: videoDeneme@gmail.com
+2025-04-01 09:15:22.045 +00:00 [INF] [Login] Giriş denemesi başladı. Email: videoDeneme
+2025-04-01 09:15:22.290 +00:00 [WRN] [Login] Giriş başarısız. Hatalı email veya şifre: videoDeneme
+2025-04-01 09:15:47.558 +00:00 [INF] [Login] Giriş denemesi başladı. Email: videoDeneme@gmail.com
+2025-04-01 09:15:47.623 +00:00 [INF] [Login] Giriş başarılı.. Email: videoDeneme@gmail.com
+2025-04-01 09:16:39.637 +00:00 [INF] [Login] Giriş denemesi başladı. Email: videoDeneme@gmail.com
+2025-04-01 09:16:39.654 +00:00 [INF] [Login] Giriş başarılı.. Email: videoDeneme@gmail.com
+2025-04-01 09:23:32.602 +00:00 [INF] [Login] Giriş denemesi başladı. Email: videoDeneme@gmail.com
+2025-04-01 09:23:32.757 +00:00 [INF] [Login] Giriş başarılı.. Email: videoDeneme@gmail.com
+2025-04-01 09:30:08.189 +00:00 [INF] [Login] Giriş denemesi başladı. Email: videoDeneme@gmail.com
+2025-04-01 09:30:08.407 +00:00 [INF] [Login] Giriş başarılı.. Email: videoDeneme@gmail.com
+2025-04-01 09:36:15.328 +00:00 [INF] [Register] Kayıt işlemi başlatıldı. Email: rastgele@gmail.com
+2025-04-01 09:36:15.480 +00:00 [INF] [Register] Kullanıcı başarıyla oluşturuldu.: rastgele@gmail.com
+2025-04-01 09:36:38.835 +00:00 [INF] [Delete] Kullanıcı başarıyla silindi.: ID 67f1ae4a-ddf5-48c1-bc6b-cfddb263e43f
+2025-04-01 09:38:02.564 +00:00 [INF] [Register] Kayıt işlemi başlatıldı. Email: rastgele@gmail.com
+2025-04-01 09:38:02.579 +00:00 [INF] [Register] Kullanıcı başarıyla oluşturuldu.: rastgele@gmail.com
+2025-04-01 09:38:39.763 +00:00 [INF] [Update] Kullanıcı başarıyla güncellendi.: deneme333
+2025-04-01 09:38:53.327 +00:00 [INF] [Delete] Kullanıcı başarıyla silindi.: ID 95f72a0f-2fa1-46ff-9031-e5723cc48670
+NF] [Register] Kullanıcı başarıyla oluşturuldu.: rastgele@gmail.com
+2025-04-01 09:38:39.763 +00:00 [INF] [Update] Kullanıcı başarıyla güncellendi.: deneme333
+2025-04-01 09:38:53.327 +00:00 [INF] [Delete] Kullanıcı başarıyla silindi.: ID 95f72a0f-2fa1-46ff-9031-e5723cc48670
+2025-04-01 11:31:18.803 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-04-01 11:31:18.915 +00:00 [WRN] No XML encryptor configured. Key {2fd2be70-9a3b-4980-b60b-74c65d10d8f0} may be persisted to storage in unencrypted form.
+2025-04-01 11:31:18.937 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+2025-04-01 11:35:23.231 +00:00 [WRN] Failed to determine the https port for redirect.
+2025-04-01 11:35:23.380 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gurkann.kadioglu@gmail.com
+2025-04-01 11:35:24.185 +00:00 [WRN] [Login] Giriş başarısız. Hatalı email veya şifre: gurkann.kadioglu@gmail.com
+2025-04-01 11:35:54.693 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gurkann.kadioglu@gmail.com
+2025-04-01 11:35:54.745 +00:00 [INF] [Login] Giriş başarılı.. Email: gurkann.kadioglu@gmail.com
+2025-04-01 11:42:41.396 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gurkann.kadioglu@gmail.com
+2025-04-01 11:42:41.667 +00:00 [INF] [Login] Giriş başarılı.. Email: gurkann.kadioglu@gmail.com
+4.745 +00:00 [INF] [Login] Giriş başarılı.. Email: gurkann.kadioglu@gmail.com
+2025-04-01 11:42:41.396 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gurkann.kadioglu@gmail.com
+2025-04-01 11:42:41.667 +00:00 [INF] [Login] Giriş başarılı.. Email: gurkann.kadioglu@gmail.com

@@ -1,0 +1,50 @@
+version: '3.9'
+
+services:
+  userservice:
+    build:
+      context: .
+      dockerfile: ./UserService/Dockerfile
+    ports:
+      - "5143:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    volumes:
+      - ./UserService/Logs:/app/Logs 
+
+  customerservice:
+    build:
+      context: .
+      dockerfile: ./CustomerService/Dockerfile
+    ports:
+      - "5104:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  salesservice:
+    build:
+      context: .
+      dockerfile: ./SalesService/Dockerfile
+    ports:
+      - "5266:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - mongodb
+
+  apigateway:
+    build:
+      context: .
+      dockerfile: ./APIGateway/Dockerfile
+    ports:
+      - "9000:80"
+    depends_on:
+      - userservice
+      - customerservice
+      - salesservice
+
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27017:27017"

@@ -1,0 +1,47 @@
+2025-03-29 09:12:36.642 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-03-29 09:12:36.719 +00:00 [WRN] No XML encryptor configured. Key {df4c3a8e-39b3-49d1-8b3b-1698cc001b46} may be persisted to storage in unencrypted form.
+2025-03-29 09:12:36.745 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+2025-03-29 09:14:14.266 +00:00 [WRN] Failed to determine the https port for redirect.
+2025-03-29 09:14:14.391 +00:00 [INF] [Register] Kayıt işlemi başlatıldı. Email: logtest@example.com
+2025-03-29 09:14:15.212 +00:00 [INF] [Register] Kullanıcı başarıyla oluşturuldu: logtest@example.com
+2025-03-29 09:28:33.272 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gecersiz@example.com
+2025-03-29 09:28:33.511 +00:00 [WRN] [Login] Giriş başarısız. Hatalı email veya şifre: gecersiz@example.com
+INF] [Register] Kullanıcı başarıyla oluşturuldu: logtest@example.com
+2025-03-29 09:28:33.272 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gecersiz@example.com
+2025-03-29 09:28:33.511 +00:00 [WRN] [Login] Giriş başarısız. Hatalı email veya şifre: gecersiz@example.com
+2025-03-29 19:52:42.071 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-03-29 19:52:42.165 +00:00 [WRN] No XML encryptor configured. Key {306ce493-db61-4d40-a6b0-764c473630e1} may be persisted to storage in unencrypted form.
+2025-03-29 19:52:42.185 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+2025-03-29 19:53:10.978 +00:00 [WRN] Failed to determine the https port for redirect.
+2025-03-29 19:53:11.129 +00:00 [INF] [Login] Giriş denemesi başladı. Email: rastgelekullanicilogdeneme@gmail.com
+2025-03-29 19:53:11.909 +00:00 [WRN] [Login] Giriş başarısız. Hatalı email veya şifre: rastgelekullanicilogdeneme@gmail.com
+to determine the https port for redirect.
+2025-03-29 19:53:11.129 +00:00 [INF] [Login] Giriş denemesi başladı. Email: rastgelekullanicilogdeneme@gmail.com
+2025-03-29 19:53:11.909 +00:00 [WRN] [Login] Giriş başarısız. Hatalı email veya şifre: rastgelekullanicilogdeneme@gmail.com
+2025-03-29 21:34:08.695 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-03-29 21:34:08.767 +00:00 [WRN] No XML encryptor configured. Key {fdf7b1de-76af-4593-8a35-7ef0e5d9ea75} may be persisted to storage in unencrypted form.
+2025-03-29 21:34:08.779 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+.767 +00:00 [WRN] No XML encryptor configured. Key {fdf7b1de-76af-4593-8a35-7ef0e5d9ea75} may be persisted to storage in unencrypted form.
+2025-03-29 21:34:08.779 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+2025-03-29 21:46:37.610 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-03-29 21:46:37.671 +00:00 [WRN] No XML encryptor configured. Key {6ad7612a-6239-4bd4-a9af-aa247ac8969c} may be persisted to storage in unencrypted form.
+2025-03-29 21:46:37.693 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+2025-03-29 21:50:13.330 +00:00 [WRN] Failed to determine the https port for redirect.
+2025-03-29 21:50:13.468 +00:00 [INF] [Register] Kayıt işlemi başlatıldı. Email: Random@example.com
+2025-03-29 21:50:14.292 +00:00 [INF] [Register] Kullanıcı başarıyla oluşturuldu.: Random@example.com
+2025-03-29 21:50:54.385 +00:00 [INF] [Login] Giriş denemesi başladı. Email: Random@example.com
+2025-03-29 21:50:54.418 +00:00 [INF] [Login] Giriş başarılı.. Email: Random@example.com
+2025-03-29 21:52:24.927 +00:00 [INF] [Login] Giriş denemesi başladı. Email: gurkann.kadioglu@gmail.com
+2025-03-29 21:52:24.966 +00:00 [INF] [Login] Giriş başarılı.. Email: gurkann.kadioglu@gmail.com
+2025-03-29 21:55:32.228 +00:00 [INF] [Register] Kayıt işlemi başlatıldı. Email: yeni@example.com
+2025-03-29 21:55:32.250 +00:00 [INF] [Register] Kullanıcı başarıyla oluşturuldu.: yeni@example.com
+2025-03-29 21:56:19.519 +00:00 [INF] [Update] Kullanıcı başarıyla güncellendi.: yeniguncel@example.com
+2025-03-29 21:56:47.438 +00:00 [INF] [Delete] Kullanıcı başarıyla silindi.: ID 41f0a698-d1a5-43ff-9d3c-b66479f234ac
+er] Kullanıcı başarıyla oluşturuldu.: yeni@example.com
+2025-03-29 21:56:19.519 +00:00 [INF] [Update] Kullanıcı başarıyla güncellendi.: yeniguncel@example.com
+2025-03-29 21:56:47.438 +00:00 [INF] [Delete] Kullanıcı başarıyla silindi.: ID 41f0a698-d1a5-43ff-9d3c-b66479f234ac
+2025-03-29 22:20:39.299 +00:00 [WRN] Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-03-29 22:20:39.367 +00:00 [WRN] No XML encryptor configured. Key {f23e7d4f-f6d1-4ca5-9124-e841a0ca504d} may be persisted to storage in unencrypted form.
+2025-03-29 22:20:39.380 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
+.367 +00:00 [WRN] No XML encryptor configured. Key {f23e7d4f-f6d1-4ca5-9124-e841a0ca504d} may be persisted to storage in unencrypted form.
+2025-03-29 22:20:39.380 +00:00 [WRN] Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:80'.
