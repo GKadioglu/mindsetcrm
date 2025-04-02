@@ -97,6 +97,14 @@ Log içeriğinde:
 - Oluşan hatalar
 gibi tüm önemli olaylar detaylı şekilde tutulmaktadır.
 
+⚠️ Önemli Not – SQL Server Bağlantısı
+
+UserService ve CustomerService, dış bir SQL Server (örneğin: SQL Server Express) kullanmaktadır. 
+Docker içinde çalışan bu servisler, `host.docker.internal` üzerinden makine dışındaki veritabanına bağlanır. 
+Eğer kendi ortamınızda test edecekseniz, `appsettings.json` içindeki `ConnectionStrings` değerini sisteminize uygun şekilde (örneğin: `localhost\\SQLEXPRESS`) güncellemeniz gerekmektedir.
+
+Alternatif olarak bağlantı sorunlarını önlemek için Docker içi bir SQL Server imajı da tercih edebilirsiniz.
+
 🗂 Versiyon Kontrolü ve Teslim
 Proje Git ile versiyonlanmış ve GitHub’a yüklenmiştir. Tüm kodlar, testler, Swagger belgeleri ve docker-compose bu repoda mevcuttur.
 
